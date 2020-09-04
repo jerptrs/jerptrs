@@ -1,7 +1,30 @@
-## Hey there :)
+### Hey there :)
 
 ---
 
-T1 diabetic (Dexcom G6 + OmniPod)  
+#### Well well, who's looking at my profile?  
 
-I'm not a professional developer but I love to play around with web technologies. 
+I am a 25 year old from Hamburg, Germany. I am not a professional developer yet, that is what I am currently working on! I love to work with web technologies and to educate myself in these areas, even if it is sometimes not so easy, it is a lot of fun.
+
+#### Topics that interest me:
+```js
+const topics = [
+  'React.js', 
+  'Angular', 
+  'Music', 
+  'Video Games', 
+  'Chat Bots', 
+  'Webpack', 
+  'Privacy', 
+  'Web Optimization', 
+  'SEO',
+  'Diabetes',
+  'Docker',
+  'Memes',
+];
+```
+
+### Contact / Links
+[Spotify](https://open.spotify.com/user/po5ro1aybgaxuh2ihi41m5cro?si=kLH8bg9YTnyZGowoCMU2Lw)  
+
+That's it... I might should create my own personal website :D
