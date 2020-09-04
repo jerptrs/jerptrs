@@ -4,7 +4,7 @@
 
 #### Well well, who's looking at my profile?  
 
-I am a 25 year old from Hamburg, Germany. I am not a professional developer yet, that is what I am currently working on! I love to work with web technologies and to educate myself in these areas, even if it is sometimes not so easy, it is a lot of fun.
+I am a 25 year old from Hamburg, Germany. I am not a professional developer yet, that is what I am currently working on! I love to work with web technologies and to educate myself in these areas, even if it is sometimes not so easy, it is still a lot of fun.
 
 #### Topics that interest me:
 ```js
