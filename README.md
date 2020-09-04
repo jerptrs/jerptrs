@@ -24,7 +24,7 @@ const topics = [
 ];
 ```
 
-### Contact / Links
+### Links
 [Spotify](https://open.spotify.com/user/po5ro1aybgaxuh2ihi41m5cro?si=kLH8bg9YTnyZGowoCMU2Lw)  
 
 That's it... I might should create my own personal website :D
