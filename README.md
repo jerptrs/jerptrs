@@ -9,7 +9,6 @@ I am a 26 year old from Hamburg, Germany. I am not a professional developer yet,
 #### Topics that interest me:
 ```js
 const topics = [
-  'React.js', 
   'Angular', 
   'Music', 
   'Video Games', 
@@ -23,13 +22,18 @@ const topics = [
   'Memes',
   'Microsoft',
   'DevOps',
-  'Networking'
+  'Networking',
+  'Azure',
+  'Windows',
+  'PowerShell',
+  'Linux',
+  'Office 365',
+  'C#',
+  '.NET'
 ];
 ```
 
 ### Links
 [Spotify](https://open.spotify.com/user/po5ro1aybgaxuh2ihi41m5cro?si=kLH8bg9YTnyZGowoCMU2Lw)  
-
-[Ragequit.cc](https://www.ragequit.cc)
 
 That's it... I might should create my own personal website :D
