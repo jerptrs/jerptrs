@@ -29,7 +29,12 @@ const topics = [
   'Linux',
   'Office 365',
   'C#',
-  '.NET'
+  '.NET',
+  'Portainer',
+  'Traefik',
+  'Linux',
+  'Javascript',
+  'Typescript'
 ];
 ```
 
